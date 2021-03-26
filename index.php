@@ -10,5 +10,6 @@
 <body>
         <h1>¡Bienvenido! Empieza a jugar </h1>
         <h3>Esta es una prueba</h3>
+        <script src="js/inicio.js"></script>
 </body>
 </html>
