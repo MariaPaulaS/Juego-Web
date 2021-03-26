@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("Esto es una alerta");
+    console.log("Juego iniciado");
 }, false);  
 
 //DOM : Document Object Model
