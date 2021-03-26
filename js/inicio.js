@@ -1,5 +1,10 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("Juego iniciado");
+    inicio.iniciarJuego();
 }, false);  
 
-//DOM : Document Object Model
+var inicio = {
+    iniciarJuego : function(){
+        console.log("Juego iniciado");
+        buclePrincipal.iterar();
+    }
+};
